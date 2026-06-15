@@ -1,7 +1,1 @@
-{
-    "name": "blockville-ws",
-    "version": "1.0.0",
-    "scripts": {
-        "start": "php websocket_server.php"
-    }
-}
+
